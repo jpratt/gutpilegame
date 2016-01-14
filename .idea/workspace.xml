@@ -2,7 +2,135 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0143c477-960d-4d67-bc52-7395591040b0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ETA_logo-ani.an" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ETA_logo-ani.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ETA_logo-ani_edge.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ETA_logo-ani_edgeActions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ETA_logo-ani_edgePreload.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pieces/e.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pieces/knife.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pieces/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pieces/s-top.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pieces/s.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pieces/tip.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pieces/u.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pieces/underline.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/examples.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/jquery.fullPage.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/responsive.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/DINNextLTPro-Black.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/DINNextLTPro-BlackCondensed.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/DINNextLTPro-BlackItalic.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/DINNextLTPro-Bold.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/DINNextLTPro-BoldCondensed.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/DINNextLTPro-BoldItalic.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/DINNextLTPro-Condensed.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/DINNextLTPro-Heavy.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/DINNextLTPro-HeavyCondensed.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/DINNextLTPro-HeavyItalic.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/DINNextLTPro-Italic.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/DINNextLTPro-Light.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/DINNextLTPro-LightCondensed.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/DINNextLTPro-LightItalic.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/DINNextLTPro-Medium.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/DINNextLTPro-MediumCond.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/DINNextLTPro-MediumItalic.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/DINNextLTPro-Regular.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/DINNextLTPro-UltraLight.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/DINNextLTPro-UltraLightCond.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/DINNextLTPro-UltraLightIt.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/Stratum1-Black.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/Stratum1-Bold.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/Stratum1-Light.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/Stratum1-Medium.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/Stratum1-Regular.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/Stratum1-Thin.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/CRKT-logo-footer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/CRKT-logo-main.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/background.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/backgroundLogo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/backgroundLogo.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/backgroundPaper.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/crkt-clean.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/crkt-hammer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/crkt-lube.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/crkt-maintenance.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/crkt-pry.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/crkt-sharpen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/gutpile-logo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/illustration.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/examples.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/jquery.fullPage.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/jquery.fullPage.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/edge_includes/edge.4.0.0.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/edge_includes/jquery-2.0.3.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/e2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/knife2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logo2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/s-top.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/s-top2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/s2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/tip2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/u2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/underline2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/bg1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/bg2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/bg3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/bg4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/bg5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/compatible.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/copyright.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/example.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/example2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/flowers.mp4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/flowers.webm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/fullPage.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/intro.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/iphone-blue.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/iphone-green.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/iphone-red.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/iphone-two.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/iphone-yellow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/iphone1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/iphone2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/iphone3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/iphone4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/slider.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/tablets.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logoAnimation/ETA_logo-ani.an" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logoAnimation/ETA_logo-ani.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logoAnimation/ETA_logo-ani_edge.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logoAnimation/ETA_logo-ani_edgeActions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logoAnimation/ETA_logo-ani_edgePreload.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logoAnimation/Pieces/e.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logoAnimation/Pieces/knife.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logoAnimation/Pieces/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logoAnimation/Pieces/s-top.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logoAnimation/Pieces/s.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logoAnimation/Pieces/tip.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logoAnimation/Pieces/u.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logoAnimation/Pieces/underline.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logoAnimation/edge_includes/edge.4.0.0.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logoAnimation/edge_includes/jquery-2.0.3.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logoAnimation/images/e2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logoAnimation/images/knife2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logoAnimation/images/logo2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logoAnimation/images/s-top.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logoAnimation/images/s-top2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logoAnimation/images/s2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logoAnimation/images/tip2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logoAnimation/images/u2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logoAnimation/images/underline2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendors/jquery.easings.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendors/jquery.slimscroll.min.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="gutpilegame.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,36 +155,51 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6052632">
-              <caret line="102" column="22" selection-start-line="102" selection-start-column="22" selection-end-line="102" selection-end-column="22" />
-              <folding>
-                <marker date="1452587112000" expanded="true" signature="955:1009" placeholder="..." />
-              </folding>
+            <state vertical-scroll-proportion="0.36220473">
+              <caret line="152" column="25" selection-start-line="152" selection-start-column="25" selection-end-line="152" selection-end-column="25" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="responsive.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/css/responsive.css">
+      <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="182" column="18" selection-start-line="182" selection-start-column="18" selection-end-line="182" selection-end-column="18" />
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+        <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="47" column="1" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
+              <caret line="28" column="3" selection-start-line="21" selection-start-column="2" selection-end-line="28" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="grayscale.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/grayscale.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-11.185185">
+              <caret line="285" column="20" selection-start-line="285" selection-start-column="20" selection-end-line="285" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -66,6 +209,8 @@
       <list>
         <option value="$PROJECT_DIR$/assets/css/main.css" />
         <option value="$PROJECT_DIR$/assets/css/responsive.css" />
+        <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/css/grayscale.css" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -79,8 +224,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="125" />
-    <option name="y" value="119" />
+    <option name="x" value="894" />
+    <option name="y" value="-969" />
     <option name="width" value="1280" />
     <option name="height" value="777" />
   </component>
@@ -107,6 +252,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -135,7 +282,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
+              <option name="myItemId" value="img" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -149,22 +296,39 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
@@ -177,25 +341,25 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="125" y="119" width="1280" height="777" extended-state="0" />
+    <frame x="894" y="-969" width="1280" height="777" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2536349" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -208,29 +372,43 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="47" column="1" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/responsive.css">
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="182" column="18" selection-start-line="182" selection-start-column="18" selection-end-line="182" selection-end-column="18" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="3" selection-start-line="21" selection-start-column="2" selection-end-line="28" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/grayscale.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.185185">
+          <caret line="285" column="20" selection-start-line="285" selection-start-column="20" selection-end-line="285" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6052632">
-          <caret line="102" column="22" selection-start-line="102" selection-start-column="22" selection-end-line="102" selection-end-column="22" />
-          <folding>
-            <marker date="1452587112000" expanded="true" signature="955:1009" placeholder="..." />
-          </folding>
+        <state vertical-scroll-proportion="0.36220473">
+          <caret line="152" column="25" selection-start-line="152" selection-start-column="25" selection-end-line="152" selection-end-column="25" />
+          <folding />
         </state>
       </provider>
     </entry>
