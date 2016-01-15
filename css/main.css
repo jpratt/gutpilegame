@@ -41,3 +41,12 @@ ul#navbar-social-links {
 .kill-pack-img {
     padding: 10px;
 }
+
+.sponsor-image {
+    padding: 10px;
+    height: 150px;
+}
+.sponsor-card-image {
+    padding: 10px;
+    height: 350px;
+}
