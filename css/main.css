@@ -35,5 +35,9 @@ ul#navbar-social-links {
 
 .large-logo {
     width: 230px;
-    margin-top: -60px;
+    margin-top: -40px;
+}
+
+.kill-pack-img {
+    padding: 10px;
 }

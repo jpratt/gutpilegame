@@ -2,135 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0143c477-960d-4d67-bc52-7395591040b0" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ETA_logo-ani.an" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ETA_logo-ani.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ETA_logo-ani_edge.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ETA_logo-ani_edgeActions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ETA_logo-ani_edgePreload.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Pieces/e.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Pieces/knife.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Pieces/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Pieces/s-top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Pieces/s.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Pieces/tip.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Pieces/u.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Pieces/underline.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/examples.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/jquery.fullPage.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/responsive.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/DINNextLTPro-Black.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/DINNextLTPro-BlackCondensed.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/DINNextLTPro-BlackItalic.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/DINNextLTPro-Bold.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/DINNextLTPro-BoldCondensed.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/DINNextLTPro-BoldItalic.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/DINNextLTPro-Condensed.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/DINNextLTPro-Heavy.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/DINNextLTPro-HeavyCondensed.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/DINNextLTPro-HeavyItalic.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/DINNextLTPro-Italic.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/DINNextLTPro-Light.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/DINNextLTPro-LightCondensed.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/DINNextLTPro-LightItalic.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/DINNextLTPro-Medium.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/DINNextLTPro-MediumCond.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/DINNextLTPro-MediumItalic.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/DINNextLTPro-Regular.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/DINNextLTPro-UltraLight.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/DINNextLTPro-UltraLightCond.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/DINNextLTPro-UltraLightIt.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/Stratum1-Black.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/Stratum1-Bold.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/Stratum1-Light.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/Stratum1-Medium.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/Stratum1-Regular.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/Stratum1-Thin.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/CRKT-logo-footer.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/CRKT-logo-main.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/background.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/backgroundLogo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/backgroundLogo.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/backgroundPaper.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/crkt-clean.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/crkt-hammer.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/crkt-lube.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/crkt-maintenance.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/crkt-pry.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/crkt-sharpen.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/gutpile-logo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/illustration.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/examples.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/jquery.fullPage.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/jquery.fullPage.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/edge_includes/edge.4.0.0.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/edge_includes/jquery-2.0.3.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/e2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/knife2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logo2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/s-top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/s-top2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/s2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/tip2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/u2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/underline2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/bg1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/bg2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/bg3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/bg4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/bg5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/compatible.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/copyright.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/example.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/example2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/flowers.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/flowers.webm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/fullPage.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/intro.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/iphone-blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/iphone-green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/iphone-red.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/iphone-two.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/iphone-yellow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/iphone1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/iphone2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/iphone3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/iphone4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/slider.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/tablets.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logoAnimation/ETA_logo-ani.an" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logoAnimation/ETA_logo-ani.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logoAnimation/ETA_logo-ani_edge.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logoAnimation/ETA_logo-ani_edgeActions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logoAnimation/ETA_logo-ani_edgePreload.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logoAnimation/Pieces/e.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logoAnimation/Pieces/knife.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logoAnimation/Pieces/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logoAnimation/Pieces/s-top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logoAnimation/Pieces/s.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logoAnimation/Pieces/tip.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logoAnimation/Pieces/u.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logoAnimation/Pieces/underline.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logoAnimation/edge_includes/edge.4.0.0.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logoAnimation/edge_includes/jquery-2.0.3.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logoAnimation/images/e2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logoAnimation/images/knife2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logoAnimation/images/logo2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logoAnimation/images/s-top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logoAnimation/images/s-top2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logoAnimation/images/s2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logoAnimation/images/tip2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logoAnimation/images/u2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logoAnimation/images/underline2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendors/jquery.easings.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendors/jquery.slimscroll.min.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/grayscale.css" afterPath="$PROJECT_DIR$/css/grayscale.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
     </list>
     <ignored path="gutpilegame.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -152,12 +26,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.36220473">
-              <caret line="152" column="25" selection-start-line="152" selection-start-column="25" selection-end-line="152" selection-end-column="25" />
-              <folding />
+            <state vertical-scroll-proportion="-13.125">
+              <caret line="92" column="41" selection-start-line="92" selection-start-column="41" selection-end-line="92" selection-end-column="41" />
+              <folding>
+                <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -172,11 +48,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="28" column="3" selection-start-line="21" selection-start-column="2" selection-end-line="28" selection-end-column="3" />
+            <state vertical-scroll-proportion="0.7519026">
+              <caret line="37" column="18" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -185,8 +61,8 @@
       <file leaf-file-name="grayscale.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/grayscale.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.185185">
-              <caret line="285" column="20" selection-start-line="285" selection-start-column="20" selection-end-line="285" selection-end-column="20" />
+            <state vertical-scroll-proportion="-100.62963">
+              <caret line="302" column="0" selection-start-line="302" selection-start-column="0" selection-end-line="304" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -209,9 +85,9 @@
       <list>
         <option value="$PROJECT_DIR$/assets/css/main.css" />
         <option value="$PROJECT_DIR$/assets/css/responsive.css" />
-        <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/css/grayscale.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/main.css" />
       </list>
     </option>
   </component>
@@ -222,10 +98,13 @@
   <component name="NamedScopeManager">
     <order />
   </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="894" />
-    <option name="y" value="-969" />
+    <option name="x" value="146" />
+    <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="777" />
   </component>
@@ -331,6 +210,9 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="0143c477-960d-4d67-bc52-7395591040b0" name="Default" comment="" />
@@ -341,7 +223,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="894" y="-969" width="1280" height="777" extended-state="0" />
+    <frame x="146" y="23" width="1280" height="777" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2536349" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -364,6 +246,14 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
@@ -376,7 +266,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -388,26 +280,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="28" column="3" selection-start-line="21" selection-start-column="2" selection-end-line="28" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/grayscale.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.185185">
-          <caret line="285" column="20" selection-start-line="285" selection-start-column="20" selection-end-line="285" selection-end-column="20" />
+        <state vertical-scroll-proportion="-100.62963">
+          <caret line="302" column="0" selection-start-line="302" selection-start-column="0" selection-end-line="304" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.36220473">
-          <caret line="152" column="25" selection-start-line="152" selection-start-column="25" selection-end-line="152" selection-end-column="25" />
+        <state vertical-scroll-proportion="-13.125">
+          <caret line="92" column="41" selection-start-line="92" selection-start-column="41" selection-end-line="92" selection-end-column="41" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7519026">
+          <caret line="37" column="18" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
           <folding />
         </state>
       </provider>
