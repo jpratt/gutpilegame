@@ -50,3 +50,15 @@ ul#navbar-social-links {
     padding: 10px;
     height: 350px;
 }
+.full-page-background {
+    background-color: #000;
+    opacity: 0.4;
+    margin-top: 108px;
+    padding: 10px;
+    height: 100%;
+    width: 100%;
+}
+
+.video-label {
+    margin-top: -28px;
+}
