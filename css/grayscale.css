@@ -163,7 +163,7 @@ a:focus {
     -o-background-size: cover;
 }
 
-.page {
+.full-page {
     display: table;
     width: 100%;
     height: auto;
