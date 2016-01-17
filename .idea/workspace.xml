@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0143c477-960d-4d67-bc52-7395591040b0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/background.jpg" afterPath="$PROJECT_DIR$/img/background.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/game.html" afterPath="$PROJECT_DIR$/game.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/grayscale.css" afterPath="$PROJECT_DIR$/css/grayscale.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="gutpilegame.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -43,8 +39,8 @@
       <file leaf-file-name="game.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/game.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.835703">
-              <caret line="173" column="0" selection-start-line="173" selection-start-column="0" selection-end-line="173" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.75829387">
+              <caret line="75" column="63" selection-start-line="75" selection-start-column="63" selection-end-line="75" selection-end-column="63" />
               <folding />
             </state>
           </provider>
@@ -366,8 +362,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/game.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.835703">
-          <caret line="173" column="0" selection-start-line="173" selection-start-column="0" selection-end-line="173" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.75829387">
+          <caret line="75" column="63" selection-start-line="75" selection-start-column="63" selection-end-line="75" selection-end-column="63" />
           <folding />
         </state>
       </provider>
