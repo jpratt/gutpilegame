@@ -146,6 +146,7 @@ a:focus {
         height: 66px;
         margin-top: -23px;
     }
+
 }
 
 .intro {
@@ -378,6 +379,13 @@ ul.banner-social-buttons {
     .logo {
         margin-top: -15px;
         height: 80px;
+    }
+    .fa {
+        font-size: 31px !important;
+    }
+    #navbar-social-links {
+        margin-top: -50px !important;
+        margin-right: 57px !important;
     }
 }
 
