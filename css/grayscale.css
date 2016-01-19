@@ -399,6 +399,9 @@ ul.banner-social-buttons {
     .desktop-social {
         display: none !important;
     }
+    .container {
+        width: 100% !important;
+    }
 }
 
 footer {
