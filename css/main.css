@@ -17,6 +17,7 @@ ul#navbar-social-links {
 
 #navbar-social-links li a {
     font-size: 18px;
+    z-index: 400;
 }
 
 /*.logo {*/

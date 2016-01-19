@@ -42,6 +42,7 @@ p {
         font-size: 20px;
         line-height: 1.6;
     }
+
 }
 
 a {
@@ -146,7 +147,12 @@ a:focus {
         height: 66px;
         margin-top: -23px;
     }
-
+    .mobile-social {
+        display: none !important;
+    }
+    .desktop-social {
+        display: inline !important;
+    }
 }
 
 .intro {
@@ -386,6 +392,12 @@ ul.banner-social-buttons {
     #navbar-social-links {
         margin-top: -50px !important;
         margin-right: 57px !important;
+    }
+    .mobile-social {
+        display: inline !important;
+    }
+    .desktop-social {
+        display: none !important;
     }
 }
 
