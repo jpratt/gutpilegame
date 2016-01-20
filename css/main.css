@@ -1,65 +1,65 @@
-/*ul#navbar-social-links {*/
-    /*text-align: right;*/
-    /*float: right;*/
-    /*z-index: 3;*/
-    /*margin-top: 15px;*/
-    /*padding: 0;*/
+ul#navbar-social-links {
+    text-align: right;
+    float: right;
+    z-index: 3;
+    margin-top: 15px;
+    padding: 0;
+}
+#navbar-social-links li {
+    height: 25px;
+    text-align: center;
+    width: 25px;
+    padding: 5px;
+    margin: 0 5px;
+    z-index: 5;
+    display: inline;
+}
+
+#navbar-social-links li a {
+    font-size: 18px;
+    z-index: 400;
+}
+
+/*.logo {*/
+    /*height: 100px;*/
+    /*margin-top: -35px;*/
 /*}*/
-/*#navbar-social-links li {*/
-    /*height: 25px;*/
-    /*text-align: center;*/
-    /*width: 25px;*/
-    /*padding: 5px;*/
-    /*margin: 0 5px;*/
-    /*z-index: 5;*/
-    /*display: inline;*/
+/*.navbar-custom.top-nav-collapse .logo {*/
+    /*height: 66px;*/
+    /*margin-top: -23px;*/
 /*}*/
 
-/*#navbar-social-links li a {*/
-    /*font-size: 18px;*/
-    /*z-index: 400;*/
-/*}*/
+.hand-deck {
+    width: 620px;
+    margin-top: 100px;
+}
 
-/*/!*.logo {*!/*/
-    /*/!*height: 100px;*!/*/
-    /*/!*margin-top: -35px;*!/*/
-/*/!*}*!/*/
-/*/!*.navbar-custom.top-nav-collapse .logo {*!/*/
-    /*/!*height: 66px;*!/*/
-    /*/!*margin-top: -23px;*!/*/
-/*/!*}*!/*/
+.large-logo {
+    width: 230px;
+    margin-top: -40px;
+}
 
-/*.hand-deck {*/
-    /*width: 620px;*/
-    /*margin-top: 100px;*/
-/*}*/
+.kill-pack-img {
+    padding: 10px;
+}
 
-/*.large-logo {*/
-    /*width: 230px;*/
-    /*margin-top: -40px;*/
-/*}*/
+.sponsor-image {
+    padding: 10px;
+    height: 150px;
+}
+.sponsor-card-image {
+    padding: 10px;
+    height: 350px;
+}
+.full-page-background {
+    background-color: #000;
+    opacity: 0.4;
+    margin-top: 108px;
+    padding: 10px;
+    height: 100%;
+    width: 100%;
+}
 
-/*.kill-pack-img {*/
-    /*padding: 10px;*/
-/*}*/
-
-/*.sponsor-image {*/
-    /*padding: 10px;*/
-    /*height: 150px;*/
-/*}*/
-/*.sponsor-card-image {*/
-    /*padding: 10px;*/
-    /*height: 350px;*/
-/*}*/
-/*.full-page-background {*/
-    /*background-color: #000;*/
-    /*opacity: 0.4;*/
-    /*margin-top: 108px;*/
-    /*padding: 10px;*/
-    /*height: 100%;*/
-    /*width: 100%;*/
-/*}*/
-
-/*.video-label {*/
-    /*margin-top: -28px;*/
-/*}*/
+.video-label {
+    margin-top: -28px;
+}
